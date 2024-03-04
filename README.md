@@ -1,2 +1,2 @@
 # GestureControl
-Epiramenting with gesture controlled python scripts.
+Expiramenting with gesture controlled python scripts.
